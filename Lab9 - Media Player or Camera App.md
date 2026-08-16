@@ -1,4 +1,4 @@
-# Lab 8: Create a Functional Media Player or Camera Application
+# Lab 5b: Create a Functional Media Player or Camera Application
 
 Complete step-by-step guide.
 
