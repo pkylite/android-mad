@@ -1,4 +1,4 @@
-# Lab 4 - An App Widget updated periodically by a background worker
+# Lab 4b - An App Widget updated periodically by a background worker
 
 Complete step-by-step guide.
 
