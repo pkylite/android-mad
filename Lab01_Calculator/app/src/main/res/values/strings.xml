@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">myCalculator</string>
+    <string name="invalid_input">Invalid Input</string>
+    <string name="error_msg">Error: %1$s</string>
+</resources>
