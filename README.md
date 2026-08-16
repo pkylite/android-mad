@@ -25,7 +25,7 @@ While all labs are available in this repository, they are designed to build upon
 
 | Sequence | Lab | Primary Concepts Introduced | Difficulty |
 | :--- | :--- | :--- | :--- |
-| **1** | **Lab 1: Calculator App** | UI Layout (Compose), State Management, Event Handling | ![Beginner](https://img.shields.io/badge/Difficulty-Beginner-green) |
+| **1** | **[Lab 1: Calculator App](./Lab01_Calculator)** | UI Layout (Compose), State Management, Event Handling | ![Beginner](https://img.shields.io/badge/Difficulty-Beginner-green) |
 | **2** | **Lab 2: VUI Enabled App** | Runtime Permissions, System Services, Async Callbacks | ![Beginner](https://img.shields.io/badge/Difficulty-Beginner-green) |
 | **3** | **Lab 4: Weather App** | REST APIs, Retrofit, JSON Parsing, Coroutines | ![Intermediate](https://img.shields.io/badge/Difficulty-Intermediate-yellow) |
 | **4** | **Lab 7: Login System** | Secure Storage, Retrofit Interceptors, Token Refresh | ![Intermediate](https://img.shields.io/badge/Difficulty-Intermediate-yellow) |
