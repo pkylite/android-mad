@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.ibsanju.calculator",
+  "applicationId": "com.example.calculator",
   "variantName": "release",
   "elements": [
     {
